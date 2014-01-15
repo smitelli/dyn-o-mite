@@ -11,7 +11,6 @@ Extremely Abridged Installation (Ubuntu)
     sudo apt-get install python-pip
     sudo pip install virtualenv
     sudo pip install virtualenvwrapper
-    chmod a+x *.sh
     ./install.sh
 
 Edit update_dyn.sh so the constants at the top of the file refer to something
